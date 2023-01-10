@@ -1,0 +1,28 @@
+{
+    "data2": [
+        {
+            "heating": "Natural Gas"
+        },
+        {
+            "heating": "Propane"
+        },
+        {
+            "heating": "Oil"
+        },
+        {
+            "heating": "Electric"
+        },
+        {
+            "heating": "Heat Pump"
+        },
+        {
+            "heating": "Dual Fuel-Natural Gas"
+        },
+        {
+            "heating": "Dual Fuel-Oil"
+        },
+        {
+            "heating": "Dual Fuel-Propane"
+        }
+    ]
+}

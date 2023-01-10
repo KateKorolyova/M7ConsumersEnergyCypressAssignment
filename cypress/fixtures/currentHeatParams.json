@@ -1,0 +1,19 @@
+{
+    "data1": [
+        {
+            "heat": "Natural Gas"
+        },
+        {
+            "heat": "Propane"
+        },
+        {
+            "heat": "Oil"
+        },
+        {
+            "heat": "Electric"
+        },
+        {
+            "heat": "Heat Pump"
+        }
+    ]
+}

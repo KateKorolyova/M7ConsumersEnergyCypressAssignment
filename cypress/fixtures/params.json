@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "state": "Ontario"
+        },
+        {
+            "state": "Quebec"
+        },
+        {
+            "state": "Nova Scotia"
+        },
+        {
+            "state": "New Brunswick"
+        },
+        {
+            "state": "Manitoba"
+        },
+        {
+            "state": "Prince Edward Island"
+        },
+        {
+            "state": "Saskatchewan"
+        },
+        {
+            "state": "Alberta"
+        },
+        {
+            "state": "British Columbia"
+        },
+        {
+            "state": "Newfoundland"
+        }
+    ]
+}
